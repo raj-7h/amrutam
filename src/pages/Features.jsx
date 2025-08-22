@@ -26,7 +26,7 @@ export default function Features() {
         </div>
         <div className="flex items-center justify-center">
           <img
-            src="/images/condeNastTraveler.png"
+            src="/images/CondeNastTraveler.png"
             alt="codeNastTraveler"
             className="w-28 h-12 object-contain"
           />
