@@ -12,56 +12,56 @@ export default function Features() {
       <div className="flex flex-wrap md:flex-nowrap justify-center items-center gap-8 md:gap-10">
         <div className="flex items-center justify-center">
           <img
-            src="../public/images/TheTimesOfIndia.svg"
+            src="/images/TheTimesOfIndia.svg"
             alt="The Times Of India"
             className="w-28 h-12 object-contain"
           />
         </div>
         <div className="flex items-center justify-center">
           <img
-            src="../public/images/yourStory.png"
+            src="/images/yourStory.png"
             alt="YOURSTORY"
             className="w-28 h-12 object-contain"
           />
         </div>
         <div className="flex items-center justify-center">
           <img
-            src="../public/images/condeNastTraveler.png"
+            src="/images/condeNastTraveler.png"
             alt="codeNastTraveler"
             className="w-28 h-12 object-contain"
           />
         </div>
         <div className="flex items-center justify-center">
           <img
-            src="../public/images/Livingetc.svg"
+            src="/images/Livingetc.svg"
             alt="Livingetc"
             className="w-28 h-12 object-contain"
           />
         </div>
         <div className="flex items-center justify-center">
           <img
-            src="../public/images/theChoiceOfFashion.svg"
+            src="/images/theChoiceOfFashion.svg"
             alt="The choice of fashion"
             className="w-28 h-12 object-contain"
           />
         </div>
         <div className="flex items-center justify-center">
           <img
-            src="../public/images/GQ.svg"
+            src="/images/GQ.svg"
             alt="The choice of fashion"
             className="w-28 h-12 object-contain"
           />
         </div>
         <div className="flex items-center justify-center">
           <img
-            src="../public/images/LifeStyleAsia.png"
+            src="/images/LifeStyleAsia.png"
             alt="The choice of fashion"
             className="w-28 h-12 object-contain"
           />
         </div>
         <div className="flex items-center justify-center">
           <img
-            src="../public/images/Vogue.png"
+            src="/images/Vogue.png"
             alt="Vouge"
             className="w-28 h-12 object-contain"
           />
